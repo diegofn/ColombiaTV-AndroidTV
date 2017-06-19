@@ -14,9 +14,9 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">Sample TV Inputs</string>
+    <string name="app_name">ColombiaTV AndroidTV</string>
     <string name="company_name" translatable="false">ColombiaTV</string>
-    <string name="rich_input_label" translatable="false">ColombiaTV Rich Input</string>
+    <string name="rich_input_label" translatable="false">ColombiaTV</string>
     <string name="rich_input_feed_url" translatable="false">https://www.dropbox.com/s/d0ful29gjn7qsap/colombiatv_feed.xml?dl=1</string>
     <string name="rich_setup_add_channel">Add Channels</string>
     <string name="rich_setup_cancel">Cancel Setup</string>

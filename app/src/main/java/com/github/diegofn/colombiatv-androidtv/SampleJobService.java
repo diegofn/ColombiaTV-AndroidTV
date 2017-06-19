@@ -13,12 +13,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.android.sampletvinput;
+package com.github.diegofn.colombiatv-androidtv;
 
 import android.media.tv.TvContract;
 import android.net.Uri;
 
-import com.example.android.sampletvinput.rich.RichFeedUtil;
+import com.github.diegofn.colombiatv-androidtv.rich.RichFeedUtil;
 
 import com.google.android.exoplayer.util.Util;
 import com.google.android.media.tv.companionlibrary.model.Advertisement;

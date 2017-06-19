@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.example.android.sampletvinput.rich;
+package com.github.diegofn.colombiatv-androidtv.rich;
 
 import android.app.Activity;
 import android.os.Bundle;
 
-import com.example.android.sampletvinput.R;
+import com.github.diegofn.colombiatv-androidtv.R;
 
 public class RichAppLinkDetailsActivity extends Activity {
     @Override

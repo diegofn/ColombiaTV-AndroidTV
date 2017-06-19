@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.sampletvinput;
+package com.github.diegofn.colombiatv-androidtv;
 
 import android.app.Activity;
 import android.os.Bundle;

@@ -12,7 +12,7 @@
  * the License.
  */
 
-package com.example.android.sampletvinput;
+package com.github.diegofn.colombiatv-androidtv;
 
 import android.app.Fragment;
 import android.os.Bundle;
@@ -23,11 +23,11 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
 /**
- * Fragment that shows a web page for Sample TV Input introduction.
+ * Fragment that shows a web page for ColombiaTV introduction.
  */
 public class MainFragment extends Fragment {
     private static final String URL =
-            "http://github.com/diegofn/wiiego-xbmc-addons/blob/master/README.md";
+            "http://github.com/diegofn/colombiatv-androidtv/blob/master/README.md";
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,

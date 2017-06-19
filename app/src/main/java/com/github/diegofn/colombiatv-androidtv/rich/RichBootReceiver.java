@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.sampletvinput.rich;
+package com.github.diegofn.colombiatv-androidtv.rich;
 
 import android.app.job.JobInfo;
 import android.app.job.JobScheduler;
@@ -24,7 +24,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
 
-import com.example.android.sampletvinput.SampleJobService;
+import com.github.diegofn.colombiatv-androidtv.SampleJobService;
 import com.google.android.media.tv.companionlibrary.EpgSyncJobService;
 
 import java.util.List;

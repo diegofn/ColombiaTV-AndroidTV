@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.android.sampletvinput.rich;
+package com.github.diegofn.colombiatv-androidtv.rich;
 
 import android.app.Activity;
 import android.content.ComponentName;
@@ -26,10 +26,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.android.sampletvinput.R;
+import com.github.diegofn.colombiatv-androidtv.R;
 import com.google.android.media.tv.companionlibrary.ChannelSetupFragment;
 import com.google.android.media.tv.companionlibrary.EpgSyncJobService;
-import com.example.android.sampletvinput.SampleJobService;
+import com.github.diegofn.colombiatv-androidtv.SampleJobService;
 
 /**
  * Fragment which shows a sample UI for registering channels and setting up SampleJobService to

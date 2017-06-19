@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.sampletvinput.rich;
+package com.github.diegofn.colombiatv-androidtv.rich;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -26,7 +26,7 @@ import android.view.ViewGroup;
 import android.view.WindowManager;
 import android.widget.TextView;
 
-import com.example.android.sampletvinput.R;
+import com.github.diegofn.colombiatv-androidtv.R;
 import com.google.android.media.tv.companionlibrary.model.Channel;
 import com.google.android.media.tv.companionlibrary.utils.TvContractUtils;
 

@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.example.android.sampletvinput.rich;
+package com.github.diegofn.colombiatv-androidtv.rich;
 
 import android.content.ContentResolver;
 import android.content.Context;
 import android.net.Uri;
 import android.util.Log;
 
-import com.example.android.sampletvinput.R;
+import com.github.diegofn.colombiatv-androidtv.R;
 import com.google.android.media.tv.companionlibrary.XmlTvParser;
 
 import java.io.BufferedInputStream;
@@ -54,7 +54,7 @@ public class RichFeedUtil {
     public static XmlTvParser.TvListing getRichTvListings(Context context) {
         Uri catalogUri = USE_LOCAL_XML_FEED
                 ? Uri.parse("android.resource://" + context.getPackageName() + "/"
-                + R.raw.rich_tv_input_xmltv_feed)
+                + R.raw.colombiatv_xmltv_feed)
                 : Uri.parse(context.getResources().getString(R.string.rich_input_feed_url))
                 .normalizeScheme();
         if (sSampleTvListing != null) {
