@@ -27,7 +27,7 @@ import android.webkit.WebViewClient;
  */
 public class MainFragment extends Fragment {
     private static final String URL =
-            "http://github.com/diegofn/colombiatvandroidtv/blob/master/README.md";
+            "http://github.com/diegofn/colombiatv-androidtv/blob/master/README.md";
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,

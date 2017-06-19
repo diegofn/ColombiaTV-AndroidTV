@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.github.diegofn.colombiatv-androidtv.player;
+package com.github.diegofn.colombiatvandroidtv.player;
 
 import android.content.Context;
 import android.media.AudioManager;

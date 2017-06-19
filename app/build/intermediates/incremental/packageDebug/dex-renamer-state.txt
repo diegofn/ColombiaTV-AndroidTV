@@ -1,0 +1,7 @@
+#Mon Jun 19 12:50:27 COT 2017
+base.0=/home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_657c6d9dc9deacf73d620e9c7712c2f7b1e57e57
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_38a8dcf3985540db0b872814acbd7fbf5b4d1fd5/classes.dex
+base.1=/home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_38a8dcf3985540db0b872814acbd7fbf5b4d1fd5
+file.0=/home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_657c6d9dc9deacf73d620e9c7712c2f7b1e57e57/classes.dex

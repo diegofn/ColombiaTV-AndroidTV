@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/lb_card_shadow_normal.9.png",
-        "source": "/home/diegofn/.android/build-cache/8ab07047a76544ec7aa1c1881378c6e2a4fc1690/output/res/drawable-xhdpi-v4/lb_card_shadow_normal.9.png"
-    },
-    {
         "merged": "/home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
         "source": "/home/diegofn/.android/build-cache/cb5c9df410503a03bb7cdba357024f798a2fd10f/output/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/lb_card_shadow_normal.9.png",
+        "source": "/home/diegofn/.android/build-cache/8ab07047a76544ec7aa1c1881378c6e2a4fc1690/output/res/drawable-xhdpi-v4/lb_card_shadow_normal.9.png"
     },
     {
         "merged": "/home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",

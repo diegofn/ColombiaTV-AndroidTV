@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.github.diegofn.colombiatv-androidtv.player;
+package com.github.diegofn.colombiatvandroidtv.player;
 
 import android.annotation.TargetApi;
 import android.media.MediaDrm.KeyRequest;

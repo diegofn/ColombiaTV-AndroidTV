@@ -1,0 +1,4 @@
+#Mon Jun 19 12:50:27 COT 2017
+base.0=/home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

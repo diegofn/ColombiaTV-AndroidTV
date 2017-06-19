@@ -10,7 +10,7 @@ contents. For details, please see the documentation of XmlTvParser class.
         <display-number>2-1</display-number>
         <icon src="https://etb.com/hogares/img1/guia/logos/logo-carac.jpg" />
     </channel>
-    <channel id="com.github.diegofn.colombiatv-androidtv.2-2" repeat-programs="true">
+    <channel id="com.github.diegofn.colombiatvandroidtv.2-2" repeat-programs="true">
         <display-name>Canal RCN</display-name>
         <display-number>2-2</display-number>
         <icon src="https://etb.com/hogares/img1/guia/logos/logo-rcn.jpg" />

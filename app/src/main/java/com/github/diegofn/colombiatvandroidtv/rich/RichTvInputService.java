@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.github.diegofn.colombiatv-androidtv.rich;
+package com.github.diegofn.colombiatvandroidtv.rich;
 
 import android.content.ComponentName;
 import android.content.Context;
@@ -37,11 +37,11 @@ import android.view.View;
 import android.view.WindowManager;
 import android.view.accessibility.CaptioningManager;
 
-import com.github.diegofn.colombiatv-androidtv.R;
-import com.github.diegofn.colombiatv-androidtv.player.DemoPlayer;
-import com.github.diegofn.colombiatv-androidtv.player.RendererBuilderFactory;
+import com.github.diegofn.colombiatvandroidtv.R;
+import com.github.diegofn.colombiatvandroidtv.player.DemoPlayer;
+import com.github.diegofn.colombiatvandroidtv.player.RendererBuilderFactory;
 
-import com.github.diegofn.colombiatv-androidtv.SampleJobService;
+import com.github.diegofn.colombiatvandroidtv.SampleJobService;
 import com.google.android.exoplayer.ExoPlayer;
 import com.google.android.exoplayer.MediaFormat;
 import com.google.android.exoplayer.text.CaptionStyleCompat;

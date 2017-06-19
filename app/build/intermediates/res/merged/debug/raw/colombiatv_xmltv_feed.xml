@@ -5,22 +5,22 @@ xmltv.dtd are extended to be align with Android TV Input Framework and contain s
 contents. For details, please see the documentation of XmlTvParser class.
 -->
 <tv>
-    <channel id="com.github.diegofn.colombiatv-androidtv.2-1" repeat-programs="true">
+    <channel id="com.github.diegofn.colombiatvandroidtv.2-1" repeat-programs="true">
         <display-name>Canal Caracol</display-name>
         <display-number>2-1</display-number>
         <icon src="https://etb.com/hogares/img1/guia/logos/logo-carac.jpg" />
     </channel>
-    <channel id="com.github.diegofn.colombiatv-androidtv.2-2" repeat-programs="true">
+    <channel id="com.github.diegofn.colombiatvandroidtv.2-2" repeat-programs="true">
         <display-name>Canal RCN</display-name>
         <display-number>2-2</display-number>
         <icon src="https://etb.com/hogares/img1/guia/logos/logo-rcn.jpg" />
         <app-link text="Canal RCN App Link" color="#4caf50"
-            poster-uri="android.resource://com.github.diegofn.colombiatv-androidtv/drawable/your_company"
-            intent-uri="intent:#Intent;component=com.example.android.sampletvinput/.rich.RichAppLinkSidePanelActivity;S.display-number=2-2;end">
+            poster-uri="android.resource://com.github.diegofn.colombiatvandroidtv/drawable/your_company"
+            intent-uri="intent:#Intent;component=com.github.diegofn.colombiatvandroidtv/.rich.RichAppLinkSidePanelActivity;S.display-number=2-2;end">
             <icon src="https://etb.com/hogares/img1/guia/logos/logo-rcn.jpg" />
         </app-link>
     </channel>
-    <channel id="com.github.diegofn.colombiatv-androidt.2-3" repeat-programs="true">
+    <channel id="com.github.diegofn.colombiatvandroidt.2-3" repeat-programs="true">
         <display-name>WinSports</display-name>
         <display-number>2-3</display-number>
         <icon src="https://www.etb.com/Hogares/img1/guia/logos/logo-win.jpg" />
@@ -29,7 +29,7 @@ contents. For details, please see the documentation of XmlTvParser class.
     <programme
         start="20150817000000 +0000"
         stop="20150817060000 +0000"
-        channel="com.github.diegofn.colombiatv-androidtv.2-1"
+        channel="com.github.diegofn.colombiatvandroidtv.2-1"
         video-src="http://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8"
         video-type="HLS">
         <title>Canal Caracol</title>
@@ -46,7 +46,7 @@ contents. For details, please see the documentation of XmlTvParser class.
     <programme
         start="20150817000000 +0000"
         stop="20150817060000 +0000"
-        channel="com.github.diegofn.colombiatv-androidtv.2-2"
+        channel="com.github.diegofn.colombiatvandroidtv.2-2"
         video-src="http://mdstrm.com/live-stream-playlist/581a06af33b5b8dc08d42ce5.m3u8?&dnt=true&ref=http%3A%2F%2Fapp.canalrcn.tech%2Fandroid5mas%2Fwifi"
         video-type="HLS">
         <title>Canal RCN</title>
@@ -63,7 +63,7 @@ contents. For details, please see the documentation of XmlTvParser class.
     <programme
         start="20150817000000 +0000"
         stop="20150817060000 +0000"
-        channel="com.github.diegofn.colombiatv-androidtv.2-3"
+        channel="com.github.diegofn.colombiatvandroidtv.2-3"
         video-src="http://cdn2.shurs.xyz/verliga/5/playlist.m3u8"
         video-type="HLS">
         <title>WinSports</title>

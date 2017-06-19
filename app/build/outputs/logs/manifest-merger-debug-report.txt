@@ -2,7 +2,7 @@
 manifest
 ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:17:1-125:12
 	package
-		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:18:5-54
+		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:18:5-53
 		INJECTED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml
 		INJECTED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -66,7 +66,7 @@ MERGED from [com.android.support:support-v4:24.0.0] /home/diegofn/.android/build
 		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:49:9-46
 	android:theme
 		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:51:9-46
-activity#com.github.diegofn.colombiatv-androidtv.MainActivity
+activity#com.github.diegofn.colombiatvandroidtv.MainActivity
 ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:52:9-57:20
 	android:name
 		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:52:19-47
@@ -80,25 +80,25 @@ category#android.intent.category.LEANBACK_LAUNCHER
 ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:55:17-86
 	android:name
 		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:55:27-83
-activity#com.github.diegofn.colombiatv-androidtv.rich.RichTvInputSetupActivity
+activity#com.github.diegofn.colombiatvandroidtv.rich.RichTvInputSetupActivity
 ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:61:9-65:20
 	android:name
 		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:61:19-64
 intent-filter#android.intent.action.MAIN
 ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:62:13-64:29
-activity#com.github.diegofn.colombiatv-androidtv.rich.RichAppLinkDetailsActivity
+activity#com.github.diegofn.colombiatvandroidtv.rich.RichAppLinkDetailsActivity
 ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:69:9-75:20
 	android:theme
 		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:71:13-53
 	android:name
 		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:70:13-60
-activity#com.github.diegofn.colombiatv-androidtv.rich.RichAppLinkSidePanelActivity
+activity#com.github.diegofn.colombiatvandroidtv.rich.RichAppLinkSidePanelActivity
 ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:79:9-85:20
 	android:theme
 		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:81:13-47
 	android:name
 		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:80:13-62
-service#com.github.diegofn.colombiatv-androidtv.rich.RichTvInputService
+service#com.github.diegofn.colombiatvandroidtv.rich.RichTvInputService
 ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:92:9-105:19
 	android:label
 		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:94:13-53
@@ -118,7 +118,7 @@ ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/And
 		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:104:17-59
 	android:name
 		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:103:17-54
-service#com.github.diegofn.colombiatv-androidtv.SampleJobService
+service#com.github.diegofn.colombiatvandroidtv.SampleJobService
 ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:108:9-111:39
 	android:exported
 		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:111:13-36
@@ -126,7 +126,7 @@ ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/And
 		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:110:13-69
 	android:name
 		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:109:13-45
-receiver#com.github.diegofn.colombiatv-androidtv.rich.RichBootReceiver
+receiver#com.github.diegofn.colombiatvandroidtv.rich.RichBootReceiver
 ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:114:9-118:20
 	android:name
 		ADDED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml:114:19-56
@@ -147,7 +147,7 @@ uses-sdk
 INJECTED from /home/diegofn/Documents/android/ColombiaTV-AndroidTV/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:leanback-v17:24.0.0] /home/diegofn/.android/build-cache/8ab07047a76544ec7aa1c1881378c6e2a4fc1690/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:24.0.0] /home/diegofn/.android/build-cache/1f413b43d32d6af4865418d33c7cb873beb52040/output/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.exoplayer:exoplayer:r1.5.16] /home/diegofn/.android/build-cache/45f9f7f3e30416bba03ef170f46e50d1591ee8a3/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.6] /home/diegofn/.android/build-cache/d3cabb859c64527979dd7b7f209f31ebb778bb4a/output/AndroidManifest.xml:24:5-26:41
 MERGED from [com.google.android.libraries.tv:companionlibrary:0.2] /home/diegofn/.android/build-cache/b81a11dc6bf57ab37da4f156356d6a84e8428c5f/output/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:appcompat-v7:24.0.0] /home/diegofn/.android/build-cache/cb5c9df410503a03bb7cdba357024f798a2fd10f/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:24.0.0] /home/diegofn/.android/build-cache/0934c81b7c552402a6af33ea032b93085a7d446e/output/AndroidManifest.xml:20:5-44

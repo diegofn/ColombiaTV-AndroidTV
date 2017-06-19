@@ -1,5 +1,5 @@
 # ColombiaTV-AndroidTV
-ColombiaTV is a multimedia project to integrate Colombian live or ondemand contenct to enrich platforms as Kodi, Android and iOS.
+ColombiaTV is a multimedia project to integrate Colombian live or on-demand content to enrich platforms Android TV platoforms.
 
 This project use the Android TV TIF Framework to integrate Live channels, on-demand content and EPG to TV through streamming o live Channels Input menu. The actual decos does not have any integration to explore the EPG or Picture in Picture options. 
 
@@ -14,9 +14,10 @@ To set up ColombiaTV on your AndroidTV, follow the next steps
 
 ## Screenshots
 
-![Initial setup](screenshots/setup.jpg)
-![TV program guide](screenshots/guide.jpg)
-![Action menu](screenshots/action.jpg)
+![Initial streaming setup](screenshots/setup1.png)
+![Channels setup](screenshots/setup2.png)
+![TV program guide](screenshots/guide.png)
+![Action menu](screenshots/action.png)
 
 ## Support
 

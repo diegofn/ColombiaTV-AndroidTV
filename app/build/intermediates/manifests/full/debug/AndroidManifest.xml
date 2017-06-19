@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.github.diegofn.colombiatv-androidtv"
+    package="com.github.diegofn.colombiatvandroidtv"
     android:versionCode="2"
     android:versionName="1.1" >
 
@@ -60,7 +60,7 @@
         android:icon="@drawable/android_48dp"
         android:label="@string/app_name"
         android:theme="@style/Theme.Leanback" >
-        <activity android:name="com.github.diegofn.colombiatv-androidtv.MainActivity" >
+        <activity android:name="com.github.diegofn.colombiatvandroidtv.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -72,7 +72,7 @@
         Launched by the TV app before it uses RichTvInputService. This registers channels and
         sets up SampleJobService to provide program information in the background.
         -->
-        <activity android:name="com.github.diegofn.colombiatv-androidtv.rich.RichTvInputSetupActivity" >
+        <activity android:name="com.github.diegofn.colombiatvandroidtv.rich.RichTvInputSetupActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
@@ -83,7 +83,7 @@
         the app-link connected to this activity.
         -->
         <activity
-            android:name="com.github.diegofn.colombiatv-androidtv.rich.RichAppLinkDetailsActivity"
+            android:name="com.github.diegofn.colombiatvandroidtv.rich.RichAppLinkDetailsActivity"
             android:theme="@style/Theme.Transparent" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -95,7 +95,7 @@
         the app-link connected to this activity.
         -->
         <activity
-            android:name="com.github.diegofn.colombiatv-androidtv.rich.RichAppLinkSidePanelActivity"
+            android:name="com.github.diegofn.colombiatvandroidtv.rich.RichAppLinkSidePanelActivity"
             android:theme="@style/Theme.Panel" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -109,7 +109,7 @@
         multi-audio, parental controls, and overlay view.
         -->
         <service
-            android:name="com.github.diegofn.colombiatv-androidtv.rich.RichTvInputService"
+            android:name="com.github.diegofn.colombiatvandroidtv.rich.RichTvInputService"
             android:label="@string/rich_input_label"
             android:permission="android.permission.BIND_TV_INPUT" >
 
@@ -128,12 +128,12 @@
 
         <!-- This service is for using JobScheduler to sync EPG data. -->
         <service
-            android:name="com.github.diegofn.colombiatv-androidtv.SampleJobService"
+            android:name="com.github.diegofn.colombiatvandroidtv.SampleJobService"
             android:exported="true"
             android:permission="android.permission.BIND_JOB_SERVICE" />
 
         <!-- This receiver is for sync job schedule well after reboot. -->
-        <receiver android:name="com.github.diegofn.colombiatv-androidtv.rich.RichBootReceiver" >
+        <receiver android:name="com.github.diegofn.colombiatvandroidtv.rich.RichBootReceiver" >
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
             </intent-filter>
