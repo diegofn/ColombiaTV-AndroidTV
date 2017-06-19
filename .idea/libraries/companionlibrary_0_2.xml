@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="companionlibrary-0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/b81a11dc6bf57ab37da4f156356d6a84e8428c5f/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/b81a11dc6bf57ab37da4f156356d6a84e8428c5f/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.libraries.tv/companionlibrary/0.2/526e5e197163a3c21b1e0cf46e0458336730d562/companionlibrary-0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

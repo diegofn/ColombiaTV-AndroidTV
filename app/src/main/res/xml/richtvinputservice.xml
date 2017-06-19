@@ -15,4 +15,4 @@
 -->
 <tv-input xmlns:android="http://schemas.android.com/apk/res/android"
     android:canRecord="true"
-    android:setupActivity="com.github.diegofn.colombiatv-androidtv.rich.RichTvInputSetupActivity" />
+    android:setupActivity="com.github.diegofn.colombiatvandroidtv.rich.RichTvInputSetupActivity" />

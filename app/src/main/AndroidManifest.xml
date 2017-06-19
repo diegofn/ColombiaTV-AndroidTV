@@ -15,7 +15,7 @@
 -->
 
 <manifest
-    package="com.github.diegofn.colombiatv-androidtv"
+    package="com.github.diegofn.colombiatvandroidtv"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <!-- Required to play internet-based streaming contents. -->
