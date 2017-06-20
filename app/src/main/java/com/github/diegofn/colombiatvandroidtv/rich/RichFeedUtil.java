@@ -54,7 +54,7 @@ public class RichFeedUtil {
     public static XmlTvParser.TvListing getRichTvListings(Context context) {
         Uri catalogUri = USE_LOCAL_XML_FEED
                 ? Uri.parse("android.resource://" + context.getPackageName() + "/"
-                + R.raw.colombiatv_xmltv_feed)
+                + R.raw.rich_tv_input_xmltv_feed)
                 : Uri.parse(context.getResources().getString(R.string.rich_input_feed_url))
                 .normalizeScheme();
         if (sSampleTvListing != null) {

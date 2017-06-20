@@ -10,22 +10,24 @@ contents. For details, please see the documentation of XmlTvParser class.
         <display-number>2-1</display-number>
         <icon src="https://etb.com/hogares/img1/guia/logos/logo-carac.jpg" />
     </channel>
+
     <channel id="com.github.diegofn.colombiatvandroidtv.2-2" repeat-programs="true">
         <display-name>Canal RCN</display-name>
         <display-number>2-2</display-number>
         <icon src="https://etb.com/hogares/img1/guia/logos/logo-rcn.jpg" />
         <app-link text="Canal RCN App Link" color="#4caf50"
-            poster-uri="android.resource://com.github.diegofn.colombiatvandroidtv/drawable/your_company"
+            poster-uri="https://etb.com/hogares/img1/guia/logos/logo-rcn.jpg"
             intent-uri="intent:#Intent;component=com.github.diegofn.colombiatvandroidtv/.rich.RichAppLinkSidePanelActivity;S.display-number=2-2;end">
             <icon src="https://etb.com/hogares/img1/guia/logos/logo-rcn.jpg" />
         </app-link>
     </channel>
-    <channel id="com.github.diegofn.colombiatvandroidt.2-3" repeat-programs="true">
+
+    <channel id="com.github.diegofn.colombiatvandroidtv.2-3" repeat-programs="true">
         <display-name>WinSports</display-name>
         <display-number>2-3</display-number>
         <icon src="https://www.etb.com/Hogares/img1/guia/logos/logo-win.jpg" />
     </channel>
- 
+
     <programme
         start="20150817000000 +0000"
         stop="20150817060000 +0000"
@@ -47,7 +49,7 @@ contents. For details, please see the documentation of XmlTvParser class.
         start="20150817000000 +0000"
         stop="20150817060000 +0000"
         channel="com.github.diegofn.colombiatvandroidtv.2-2"
-        video-src="http://mdstrm.com/live-stream-playlist/581a06af33b5b8dc08d42ce5.m3u8?&dnt=true&ref=http%3A%2F%2Fapp.canalrcn.tech%2Fandroid5mas%2Fwifi"
+        video-src="http://mdstrm.com/live-stream-playlist/581a06af33b5b8dc08d42ce5.m3u8?&amp;dnt=true&amp;ref=http%3A%2F%2Fapp.canalrcn.tech%2Fandroid5mas%2Fwifi"
         video-type="HLS">
         <title>Canal RCN</title>
         <desc>Streaming en vivo de Canal RCN</desc>
@@ -68,12 +70,11 @@ contents. For details, please see the documentation of XmlTvParser class.
         video-type="HLS">
         <title>WinSports</title>
         <desc>Canal deportivo de Colombia</desc>
-        <icon src="https://etb.com/hogares/img1/guia/logos/logo-rcn.jpg" />
+        <icon src="https://www.etb.com/Hogares/img1/guia/logos/logo-win.jpg" />
         <category>NEWS</category>
         <category>SPORTS</category>
         <rating system="com.android.tv">
             <value>com.android.tv/US_TV/US_TV_G</value>
         </rating>
     </programme>
-    
 </tv>
