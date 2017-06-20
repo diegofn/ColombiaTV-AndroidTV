@@ -46,7 +46,7 @@ public class RichBootReceiver extends BroadcastReceiver{
             if (inputId != null) {
                 // Set up periodic sync only when input has set up.
                 EpgSyncJobService.setUpPeriodicSync(context, inputId,
-                        new ComponentName(context, SampleJobService.class));
+                       new ComponentName(context, SampleJobService.class));
             }
             return;
         }
